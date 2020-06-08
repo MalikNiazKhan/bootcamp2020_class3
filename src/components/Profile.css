@@ -1,0 +1,21 @@
+.profDiv {
+  margin: 10px 40%;
+  padding: 20px;
+  width: 300px;
+  border: 4px solid #34a8eb;
+}
+
+.basicInfo{
+  font-size: 1.25em;
+}
+
+.profLabel{
+  text-align: center;
+  color: #34a8eb;
+}
+
+.profImg {
+  display: block;
+  margin: auto;
+  width: 40%
+}
