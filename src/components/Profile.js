@@ -6,7 +6,7 @@ function Profile(props)
   return (
     <div  className="profDiv">
       <h3 className="profLabel">Profile</h3>
-      <img className="profImg" src={props.image}/>
+      <img className="profImg" src={props.image} alt='Photo'/>
       <br />
       <span className="basicInfo">Name: {props.name}</span>
       <br />
